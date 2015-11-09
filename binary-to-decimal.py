@@ -8,4 +8,4 @@ while i < len(s):
 		total += 2 ** i
 	i += 1
 
-print decimal_number  #print decimal form of the binary number
+print decimal_number  # print decimal form of the binary number
